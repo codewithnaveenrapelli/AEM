@@ -1,0 +1,3 @@
+{
+  "sling.filter.pattern": "/content/AEM-DeveloperResource/.*?/(category-page|product-page)"
+}
