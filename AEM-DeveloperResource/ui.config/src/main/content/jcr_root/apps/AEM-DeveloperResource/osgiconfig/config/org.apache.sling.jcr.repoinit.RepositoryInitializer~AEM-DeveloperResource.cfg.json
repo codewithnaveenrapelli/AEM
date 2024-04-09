@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/AEM-DeveloperResource",
+        "create path (nt:unstructured) /content/dam/AEM-DeveloperResource/jcr:content",
+        "set properties on /content/dam/AEM-DeveloperResource/jcr:content\n  set cq:conf{String} to /conf/AEM-DeveloperResource\n  set jcr:title{String} to \"AEM Developer Resource\"\nend"
+    ]
+}
