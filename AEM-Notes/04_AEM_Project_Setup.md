@@ -84,17 +84,17 @@ Hit **http://localhost:4502/crx/packmgr/index.jsp ** URL and verify all below in
 
 Let’s try to understand all submodules gets create inside project.
 
-![AEM Project](https://github.com/DeveloperResource-NaveenR/AEM/Images/Project_setup.webp)
+![AEM Project](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Project_setup.png)
 
 ## ui.apps
 ui.apps package creates an empty inside /apps/<my-project> and /etc/<my-project> hierarchy and responsible for component, OSGI configs, clientlibs and internationalization.
 
-![Ui.apps](https://github.com/DeveloperResource-NaveenR/AEM/Images/apps.png)
+![Ui.apps](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/apps.png)
 
 ## ui.content
 ui.content package creates an empty inside /content/<my-project> and /content/dam/<my-project> hierarchy and responsible for content, pages, assets, content, templates and experience fragment.
 
-![Ui.content](https://github.com/DeveloperResource-NaveenR/AEM/Images/content.png)
+![Ui.content](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/content.png)
 
 
 ## ui.frontend
@@ -103,14 +103,14 @@ ui.frontend package is mainly responsible for front related items such as css, j
 ## core module
 core package is mainly responsible for Java or backend code. Jar file will get install in AEM instance as part of practice.all-1.0.0-SNAPSHOT.zip package.
 
-![core](https://github.com/DeveloperResource-NaveenR/AEM/Images/core.png)
+![core](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/core.png)
 
 Below is the location of project core jar file having all backend code.
 
 ## ui.config
 ui.config package is responsible for defining run modes. Previously, it was a part of a ui.apps package and a small change in the configuration required a complete ui.apps package build. Using ui.config package we will be able to deploy config only.
 
-![Ui.config](https://github.com/DeveloperResource-NaveenR/AEM/Images/config.png)
+![Ui.config](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/config.png)
 
 
 # **Most Common Error**
@@ -118,7 +118,7 @@ ui.config package is responsible for defining run modes. Previously, it was a pa
 1. Dispatcher issue may occur, GO to POM.xml in project and UnCommit the as per below image
 
 
-![Dispatcher Issue](https://github.com/DeveloperResource-NaveenR/AEM/Images/image.png)
+![Dispatcher Issue](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/image.png)
 
 2. **npm install** This issue will cover while installing maven command To Resolve this issue.
 
