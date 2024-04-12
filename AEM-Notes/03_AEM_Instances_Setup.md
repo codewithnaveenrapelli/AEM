@@ -26,13 +26,13 @@
 
 2. Double-click on the jar file to create a brand new AEM instance. After clicking on AEM Jar will open the below window. It will take a good amount of time around 15 to 20 min to start AEM for the first time. Next time onwards it will take max 5 minutes to start the instance
 
-![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/start.png)
+![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/start.PNG)
 
 3. Once the AEM instance is up and running, it will open a browser with the below page open.
 
 4. Provide username and password as admin which is OOTB that can also be changed.
 
-![AEM Instance](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/start%202.png)
+![AEM Instance](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/start%202.PNG)
 
 5. After login, it will open below screen
 
