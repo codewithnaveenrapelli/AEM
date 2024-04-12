@@ -45,42 +45,42 @@ Editable templates are now considered best practices for developing with AEM.
 
 2. Go to Tools --> General --> Configurations Browser.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%201.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%201.png) 
 
 3. In the Create Configuration dialog, the following fields must be configured:
 
     - Title: Provide a title for the configuration folder
     - Editable Templates: Select to allow for editable templates within this folder
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%202.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%202.png) 
 
 4. Click Create Folder is created
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%203.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%203.png) 
 
 
 5. Check Weather this folder is saved in DB(CRX/DE).
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%204.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%204.png) 
 
 
 6. Open the folder called Template Type inside you will not any template type.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%205.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%205.png) 
 
 ## Create a Template Type
 
 7. Go to Tools --> general --> Template Folder --> Click on it.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%206.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%206.png) 
 
 8. Now you will be able to see the folder which is created earlier.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%207.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%207.png)
 
 9. Go inside the folder and Click on Create Button.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%208.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%208.png) 
 
 10. You will find one template type which is coming from other resource Example it will check in the relative path if template type is not available in our project. 
     - /conf/myproject/myproject/settings/wcm/template-types
@@ -93,24 +93,24 @@ Editable templates are now considered best practices for developing with AEM.
 
     - Best of creating template type is you can copy from wknd(project) or Any other project
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%209.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%209.png) 
 
 
 11. Once you copied the filed you can paste the file to your folder under template type and renamed the file name
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2010.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2010.png) 
 
 12. Inside the folder jcr:content change the jcr:title and jcr:description.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2011.png) 
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2011.png) 
 
 13. Go to initial content node and change the sling:resourceType 
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2012.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2012.png)
 
 13. Go to structure node and change sling:resourceType
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2013.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2013.png)
 
 14. Now we are ready with template type 
 
@@ -118,17 +118,17 @@ Editable templates are now considered best practices for developing with AEM.
 
 16. You will find the template type which is created now.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2014.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2014.png)
 
 17. Select the template type and create a template 
 
     - Need to add title 
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2015.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2015.png)
 
 18. Once you add the title click on create button
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2016.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2016.png)
 
 19. Successfully we have created Template Type and using template type we created template.
 
@@ -139,7 +139,7 @@ Let's Understand below folder structure
 2. initial
 3. policy
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2017.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2017.png)
 
 
 ## Structure
@@ -181,17 +181,17 @@ Responsive layout for templates operates as it does for page authoring.
 
 Now let create template with some components.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2018.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2018.png)
 
 * In structure mode when you can on container component we don't have option to add component to it.
 
 * so it enable that we need add policy to it.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2019.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2019.png)
 
 * Go the this url --> http://localhost:4502/sites.html/content/AEM-DeveloperResource/us/en 
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2021.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2021.png)
 
 * you need to find your template in it. if your template is not visible 
 
@@ -200,23 +200,23 @@ Now let create template with some components.
 
 * Let's make the template from draft to enable state.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2020.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2020.png)
 
 * After enable still you are not able find the template 
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2022.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2022.png)
 
 * Next you add in page properties under US--> page properties
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2023.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2023.png)
 
 * now you will find your template when you are creating page.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2024.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2024.png)
 
 * let's create a page using this template.
 
-![Folder](/AEM/Images/Editable%20Template/Editable%20Template%2025.png)
+![Folder](https://github.com/DeveloperResource-NaveenR/AEM/Images/Editable%20Template/Editable%20Template%2025.png)
 
 
 
