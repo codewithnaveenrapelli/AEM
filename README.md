@@ -8,8 +8,4 @@
 | 04    |  [ AEM Project Setup](./AEM-Notes/04_AEM_Project_Setup) |
 | 05    |  [ AEM Template Creation](./AEM-Notes/05_Templates.md) |
 
-
 Keep Learning 🩷👍
-
-
-
