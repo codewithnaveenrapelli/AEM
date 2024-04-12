@@ -84,7 +84,7 @@ Hit **http://localhost:4502/crx/packmgr/index.jsp ** URL and verify all below in
 
 Let’s try to understand all submodules gets create inside project.
 
-![AEM Project](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Project_setup.png)
+![AEM Project](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Project_setups.png)
 
 ## ui.apps
 ui.apps package creates an empty inside /apps/<my-project> and /etc/<my-project> hierarchy and responsible for component, OSGI configs, clientlibs and internationalization.
