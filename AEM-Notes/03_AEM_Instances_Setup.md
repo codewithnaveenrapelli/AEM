@@ -16,7 +16,7 @@
 
 * This is an internal (not for end user) server mainly used for content authoring. Content will get publish or transfer to multiple AEM instances on content replication which is also called as activation.
 
-![AEM AUthor](/AEM/Images/author.PNG)
+![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/author.png)
 
 * We can have one or more than one publish AEM instance.
 
