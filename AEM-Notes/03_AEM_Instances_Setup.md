@@ -16,11 +16,11 @@
 
 * This is an internal (not for end user) server mainly used for content authoring. Content will get publish or transfer to multiple AEM instances on content replication which is also called as activation.
 
-![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/author.PNG)
+![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/author.png)
 
 * We can have one or more than one publish AEM instance.
 
-![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/Multiple%20Publish%20Instance.webp)
+![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/Multiple_Publish_Instance.png)
 
 1. Creating an AEM instance required naming the AEM jar file as aem-author-p4502.jar
 
