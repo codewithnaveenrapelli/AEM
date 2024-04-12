@@ -28,11 +28,13 @@
 
 ![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/start.png)
 
+
 3. Once the AEM instance is up and running, it will open a browser with the below page open.
 
 4. Provide username and password as admin which is OOTB that can also be changed.
 
 ![AEM Instance](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/start%202.png)
+
 
 5. After login, it will open below screen
 
