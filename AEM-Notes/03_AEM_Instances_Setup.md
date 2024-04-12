@@ -52,7 +52,7 @@ AEM Publish instance generally hosted on 4503 port and available to access for e
 
 As part of reverse replication, content will get replicate or deactivate from publish instance to author.
 
-![AEM Version Check](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/AEM%20Publish.webp)
+![AEM Version Check](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/AEM%20Publish.png)
 
 Below are the steps to create publish instance
 
