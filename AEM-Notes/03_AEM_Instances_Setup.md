@@ -20,7 +20,7 @@
 
 * We can have one or more than one publish AEM instance.
 
-![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/Multiple.png)
+![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Multiple.png)
 
 1. Creating an AEM instance required naming the AEM jar file as aem-author-p4502.jar
 
