@@ -26,21 +26,21 @@
 
 2. Double-click on the jar file to create a brand new AEM instance. After clicking on AEM Jar will open the below window. It will take a good amount of time around 15 to 20 min to start AEM for the first time. Next time onwards it will take max 5 minutes to start the instance
 
-![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/start.png)
+![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/start.png)
 
 3. Once the AEM instance is up and running, it will open a browser with the below page open.
 
 4. Provide username and password as admin which is OOTB that can also be changed.
 
-![AEM Instance](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/start%202.png)
+![AEM Instance](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/start%202.png)
 
 5. After login, it will open below screen
 
-![AEM Login Page](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/login.png)
+![AEM Login Page](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/login.png)
 
 6. Clicking on the below question mark sign will help us to see the Adobe Experience Manager version.
 
-![AEM Version Check](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/version.png)
+![AEM Version Check](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/version.png)
 
 
 ## AEM Publish instance
@@ -50,7 +50,7 @@ AEM Publish instance generally hosted on 4503 port and available to access for e
 
 As part of reverse replication, content will get replicate or deactivate from publish instance to author.
 
-![AEM Version Check](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/AEM%20Publish.webp)
+![AEM Version Check](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/AEM%20Publish.webp)
 
 Below are the steps to create publish instance
 
@@ -66,12 +66,12 @@ Below are the steps to create publish instance
 
 2. Click Default Agent to open the default replication agent
 
-![AEM Replication Image](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/Replication%20Image/replication%20Image%20Author.png)
+![AEM Replication Image](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Replication%20Image/replication%20Image%20Author.png)
 
 
 3. Then click on “Edit” after Settings to open the Agent Settings dialog box to enter the details.
 
-![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/Replication%20Image/replication%203.png)
+![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Replication%20Image/replication%203.png)
 
 8. Under the settings tab, update the following
 
@@ -79,7 +79,7 @@ Below are the steps to create publish instance
 
 10. Agent user ID — Leave this empty
 
-![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/Replication%20Image/replication%204.png)
+![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Replication%20Image/replication%204.png)
 
 11. Under the transport tab  update The “URI” with the host name and port number 
 
@@ -87,18 +87,18 @@ Below are the steps to create publish instance
 
 13. update the “User” and “Password“, which are your publish instance User Name and Password. (For me: User: admin, Password: admin)
 
-![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/Replication%20Image/replication%205.png)
+![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Replication%20Image/replication%205.png)
 
 
 14. Click on “OK” and then click on “Test Connection“
 
 15. If all are okay then you can see a page with “Replication test succeeded“
 
-![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/Replication%20Image/replication%206.png)
+![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Replication%20Image/replication%206.png)
 
 16. you can go to the author package manager, select a package and from the more option replicate the package.
 
-![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/Images/Replication%20Image/replicate2.png)
+![AEM Replication Edit](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Replication%20Image/replicate2.png)
 
 
 
