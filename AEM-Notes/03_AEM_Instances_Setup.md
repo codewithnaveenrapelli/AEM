@@ -16,7 +16,7 @@
 
 * This is an internal (not for end user) server mainly used for content authoring. Content will get publish or transfer to multiple AEM instances on content replication which is also called as activation.
 
-![AEM AUthor](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/author.png)
+![AEM AUthor](/AEM/Images/author.png)
 
 * We can have one or more than one publish AEM instance.
 
@@ -68,7 +68,7 @@ Below are the steps to create publish instance
 
 2. Click Default Agent to open the default replication agent
 
-![AEM Replication Image](https://github.com/DeveloperResource-NaveenR/AEM/blob/main/Images/Replication%20Image/replication%20Image%20Author.png)
+![AEM Replication Image](/AEM/Images/Replication%20Image/replication%20Image%20Author.png)
 
 
 3. Then click on “Edit” after Settings to open the Agent Settings dialog box to enter the details.
