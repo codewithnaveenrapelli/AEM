@@ -9,7 +9,8 @@
 | 05    |  [ Replication Agent](./AEM-Notes/05_Replication&ReverseReplication.md) |
 | 06    |  [ Template Creation](./AEM-Notes/06_Templates.md) |
 | 07    |  [ How to Create Component without sling model](./AEM-Notes/07_Create_Component.md) |
-| 08    |  [ How to Clear Clientlibs Cache](./AEM-Notes/09_Clientlibs_Clear_Cache.md) |
-| 09    |  [ How to use Groovy Script Console](./AEM-Notes/10_Groovy_Script.md) |
+| 08    |  [ How to Create Clientlibs](./AEM-Notes/08_Clientlibs_creation.md) |
+| 09    |  [ How to Clear Clientlib Cache issue](./AEM-Notes/09_Clientlibs_Clear_Cache.md) |
+| 10    |  [ How to use Groovy Script Console](./AEM-Notes/10_Groovy_Script.md) |
 
 Keep Learning 🩷👍
